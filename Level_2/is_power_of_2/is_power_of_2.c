@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   is_power_of_2.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: damachad <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: damachad <damachad@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/13 12:13:11 by damachad          #+#    #+#             */
-/*   Updated: 2023/06/13 12:13:12 by damachad         ###   ########.fr       */
+/*   Updated: 2023/06/13 14:38:15 by damachad         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,4 +37,4 @@ int	main(int argc, char **argv)
 		printf("Please insert a positive number\n");
 	return (0);
 }
-*\
+*/
