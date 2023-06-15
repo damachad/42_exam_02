@@ -1,4 +1,4 @@
-Subject   
+# Subject   
 
 Assignment name  : epur_str   
 Expected files   : epur_str.c   
